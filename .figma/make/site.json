@@ -1,0 +1,10 @@
+{
+  "description": "Discover PROMUSIC EC, a vibrant music academy website offering classes for all ages, instrument rentals, and creative workshops in Cuenca, Ecuador.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
